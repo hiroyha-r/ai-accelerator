@@ -12,7 +12,7 @@ spec:
   project: cluster-config
   source:
     path: patch-me-see-overlays
-    repoURL: https://github.com/redhat-ai-services/ai-accelerator.git
+    repoURL: https://github.com/hiroyha-r/ai-accelerator.git
     targetRevision: hhasebe01
   syncPolicy:
     automated:
