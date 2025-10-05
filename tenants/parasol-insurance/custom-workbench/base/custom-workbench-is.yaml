@@ -7,7 +7,7 @@ metadata:
     opendatahub.io/notebook-image-name: Custom Notebook
     opendatahub.io/notebook-image-url: 'quay.io/hhasebe/workbench-images:jupyter-datascience-ubi9-python-3.12-2024b_20251004'
     opendatahub.io/recommended-accelerators: '[]'
-  name: custom-workbench
+  name: custom-notebook
   namespace: redhat-ods-applications
   labels:
     app.kubernetes.io/created-by: byon
