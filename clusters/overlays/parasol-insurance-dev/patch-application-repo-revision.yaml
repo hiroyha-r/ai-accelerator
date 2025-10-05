@@ -1,6 +1,6 @@
 - op: replace
   path: /spec/source/repoURL
-  value: 'https://github.com/hhasebe-r/ai-accelerator.git'
+  value: 'https://github.com/hiroyha-r/ai-accelerator.git'
 - op: replace
   path: /spec/source/targetRevision
   value: hhasebe01
