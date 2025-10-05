@@ -9,8 +9,8 @@ metadata:
 spec:
   generators:
   - git:
-      repoURL: 'https://github.com/hhasebe/ai-accelerator.git'  # Update me on fork
-      revision: main
+      repoURL: 'https://github.com/hhasebe-r/ai-accelerator.git'  # Update me on fork
+      revision: hhasebe01
       directories:
       - path: tenants/*/*/overlays/patch-me-see-overlay
       - path: tenants/*/*/overlays/common
