@@ -4,5 +4,4 @@ kind: Kustomization
 namespace: parasol-insurance
 
 resources:
-  - data-connection.yaml
   - dspa.yaml
