@@ -11,7 +11,7 @@ metadata:
     # argocd.argoproj.io/sync-wave: "-100"
 stringData:
   AWS_ACCESS_KEY_ID: minio
-  AWS_S3_BUCKET: standard-workbench
+  AWS_S3_BUCKET: models
   AWS_S3_ENDPOINT: http://minio.object-datastore.svc.cluster.local:9000
   AWS_SECRET_ACCESS_KEY: minio123
   AWS_DEFAULT_REGION: east-1
